@@ -1,6 +1,0 @@
-setup.py
-DiamondPredictionML.egg-info/PKG-INFO
-DiamondPredictionML.egg-info/SOURCES.txt
-DiamondPredictionML.egg-info/dependency_links.txt
-DiamondPredictionML.egg-info/top_level.txt
-src/__init__.py
